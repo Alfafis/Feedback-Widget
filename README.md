@@ -12,94 +12,54 @@
     <img width= '380' src=".\public\Screenshot_3.jpg">
 </h1>
 
-## 📚 Sobre
+# Feedget
 
-O projeto NLW Return Impulse foi desenvolvido com o objetivo de testar minha habilidades a parte de um curso da RocketSeat.
+## 💻 Project
+A [Feedback Widget](https://nlw-return-impulse-rk1it4xmi-alfafis.vercel.app/) to collect user's feedback on any web and mobile application.
 
----
+## ✨ Tecnologias
 
-## 🚀 Tecnologias Utilizadas
+-   [ ] React
+-   [ ] React Native
+-   [ ] Typescript
+-   [ ] Tailwind CSS
+-   [ ] Prisma ORM
+-   [ ] Vite
+-   [ ] Axios
+-   [ ] Expo Google Fonts
+-   [ ] React Navigation Stack
+-   [ ] React Native Gesture Handler
 
-- Typescript
-- TailWindCss
-- Node
-- Prisma
-- PostgreSql
-- Vite
-- Expo
-- ReactNative
-- ReactJs
+## 🔖 Layout
 
-**ATENÇÃO❗** É necessário que já esteja instalado:
+You can check the project's layout on [this link](https://www.figma.com/community/file/1102912516166573468). It's necessary to have a [Figma](http://figma.com/) account to access it.
 
-- Node.js
-- Git
-- Gerenciador de pacotes (NPM ou Yarn).
 
----
+## Running the project locally
 
-## 📦 Como instalar e iniciar o projeto
+Use **yarn** or **npm install** to install the project's dependencies on server and web folders.
+Next, start the front-end on web folder.
 
-### Web (Front-end)
+```cl
+npm start
+```
+After that, start the back-end on server folder.
 
-```bash
-
-# Entrar na pasta web
-$ cd web/
-
-# Instalar as dependências
-$ npm install
-
-# Iniciar a aplicação
-$ npm run dev
-
+```cl
+npm run dev
 ```
 
----
+## Next Improvements
 
-### Server (Back-end)
+- Dark and light mode;
+- Use a mail service on production like mailgun;
+- Improve the HTML/CSS of the feedback email sent;
+- Create a feedback dashboard;
+- Improve validations and error handling on back-end;
 
-```bash
+## Deploy
+I deployed the front-end on [Vercel](https://vercel.com/) and back-end on [Railway](https://railway.app/).
 
-# Entrar na pasta server
-$ cd server/
-
-# Instalar as dependências
-$ npm install
-
-# Iniciar a aplicação
-$ npm run dev
-
-```
-
----
-
-### 📋 Testes
-```
-# Entrar na pasta server
-$ cd server/
-
-# Iniciar o teste
-$ npm run test
-```
-
----
-
-### Mobile (Mobile)
-
-```bash
-
-# Entrar na pasta mobile
-$ cd mobile/
-
-# Instalar as dependências
-$ npm install
-
-# Iniciar a aplicação
-$ expo start
-
-```
-
----
+<h1><a href="https://nlw-return-impulse-rk1it4xmi-alfafis.vercel.app/">Feedget</a></h1>
 
 Desenvolvido Alfafis
