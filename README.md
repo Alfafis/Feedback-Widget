@@ -21,6 +21,7 @@ O projeto NLW Return Impulse foi desenvolvido com o objetivo de testar minha hab
 ## 🚀 Tecnologias Utilizadas
 
 - Typescript
+- TailWindCss
 - Node
 - Prisma
 - PostgreSql
