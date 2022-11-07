@@ -1,4 +1,4 @@
-<h3 align="center"> Projeto Rick And Morty </h3>
+<h3 align="center"> Projeto Feed back </h3>
 
 <h1 align="center">
     <img width= '380' src=".\public\Screenshot_1.jpg">
